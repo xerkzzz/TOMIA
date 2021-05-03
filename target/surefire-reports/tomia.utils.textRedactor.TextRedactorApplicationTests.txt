@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tomia.utils.textRedactor.TextRedactorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.494 s - in tomia.utils.textRedactor.TextRedactorApplicationTests
